@@ -11,5 +11,5 @@ This solution doesn't have a UI or API implementation. Only the repository and t
 <b>Update appsettings.json in CosmosDbPoC.Tests</b>
 <br />
 It's necessary to update the following properties inside the appsettings.json:<br />
-<i>Host - Add the URL to your database</i>
+<i>Host - Add the URL to your database</i><br />
 <i>PrimaryKey - Add the PrimaryKey to authenticate with your database</i>
