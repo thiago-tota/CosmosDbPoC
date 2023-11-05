@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33711.374
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDbPoC.Data", "CosmosDbPoC.Data\CosmosDbPoC.Data.csproj", "{BEE373DA-8968-43BB-AD42-3FD12EBA68DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDbPoC.Tests", "CosmosDbPoC.Tests\CosmosDbPoC.Tests.csproj", "{B4B7560E-0F13-4F81-B726-3B83741CD83E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE373DA-8968-43BB-AD42-3FD12EBA68DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE373DA-8968-43BB-AD42-3FD12EBA68DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE373DA-8968-43BB-AD42-3FD12EBA68DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE373DA-8968-43BB-AD42-3FD12EBA68DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B7560E-0F13-4F81-B726-3B83741CD83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B7560E-0F13-4F81-B726-3B83741CD83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B7560E-0F13-4F81-B726-3B83741CD83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B7560E-0F13-4F81-B726-3B83741CD83E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5C7AAF-E5AE-4E68-B886-B0218FFB82CE}
+	EndGlobalSection
+EndGlobal
